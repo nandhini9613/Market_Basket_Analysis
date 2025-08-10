@@ -14,6 +14,10 @@ Each transaction consists of items bought together.
 - Applying **Apriori Algorithm** to find frequent itemsets
 - Generating **association rules** (support, confidence, lift)
 - Visualization of frequent patterns and item relationships
+  
+## ➡️ Live Dashboard
+click here to view the interactive dashboard
+https://public.tableau.com/views/Market_basket_analysis_17547210548850/Market_basket_analysis?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ## 📦 Requirements
 Install the required dependencies before running the project:
